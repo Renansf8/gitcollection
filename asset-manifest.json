@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/gitcollection/static/js/main.7df51013.chunk.js",
-    "main.js.map": "/gitcollection/static/js/main.7df51013.chunk.js.map",
+    "main.js": "/gitcollection/static/js/main.0b4da452.chunk.js",
+    "main.js.map": "/gitcollection/static/js/main.0b4da452.chunk.js.map",
     "runtime-main.js": "/gitcollection/static/js/runtime-main.684afd1d.js",
     "runtime-main.js.map": "/gitcollection/static/js/runtime-main.684afd1d.js.map",
-    "static/js/2.88c08b51.chunk.js": "/gitcollection/static/js/2.88c08b51.chunk.js",
-    "static/js/2.88c08b51.chunk.js.map": "/gitcollection/static/js/2.88c08b51.chunk.js.map",
+    "static/js/2.e6b15a0f.chunk.js": "/gitcollection/static/js/2.e6b15a0f.chunk.js",
+    "static/js/2.e6b15a0f.chunk.js.map": "/gitcollection/static/js/2.e6b15a0f.chunk.js.map",
     "index.html": "/gitcollection/index.html",
-    "static/js/2.88c08b51.chunk.js.LICENSE.txt": "/gitcollection/static/js/2.88c08b51.chunk.js.LICENSE.txt",
+    "static/js/2.e6b15a0f.chunk.js.LICENSE.txt": "/gitcollection/static/js/2.e6b15a0f.chunk.js.LICENSE.txt",
     "static/media/background.a0394ab9.svg": "/gitcollection/static/media/background.a0394ab9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.684afd1d.js",
-    "static/js/2.88c08b51.chunk.js",
-    "static/js/main.7df51013.chunk.js"
+    "static/js/2.e6b15a0f.chunk.js",
+    "static/js/main.0b4da452.chunk.js"
   ]
 }
