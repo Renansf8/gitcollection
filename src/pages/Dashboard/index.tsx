@@ -85,10 +85,11 @@ const Dashboard: React.FC = () => {
       {invalidRepository && <Error>{invalidRepository}</Error>}
 
       <Repos>
-        {repositories.map(repository => (
+        {repositories.map((repository, i) => (
           <Link
             to={`/repositories/${repository.full_name}`}
-            key={repository.full_name}
+            key={i}
+            data-testid="repoLink"
           >
             <img
               src={repository.owner.avatar_url}
